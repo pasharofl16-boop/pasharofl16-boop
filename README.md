@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
  Tupo ya kogda uznal chto u nas est' practica:\
  <img width="12" />
-<img src="https://avatars.mds.yandex.net/i?id=17dd7775c71daf319417735d18867ff5_l-9230514-images-thumbs&n=13" height="70" alt="c# logo"  />
+<img src="https://avatars.mds.yandex.net/i?id=17dd7775c71daf319417735d18867ff5_l-9230514-images-thumbs&n=13" height="1" alt="c# logo"  />
