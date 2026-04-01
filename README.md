@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ## 📞 My Contacts :
 
-[![Telegram](https://t.me/fee1myv1be)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Igorsergeevichzgu)
