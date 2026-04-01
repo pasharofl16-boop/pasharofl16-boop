@@ -20,8 +20,12 @@ Here are some ideas to get you started:
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=c#" height="40" alt="c# logo"  />
   <img width="12" />
-- # My honest reaction:
-  <div align="center">
- Tupo ya kogda uznal chto u nas est' practica:\
+
+  
+ ## 📈 My Stats :
+<div align="center">
+ 
+  Tupo ya kogda uznal chto u nas est' practica:
+  
  <img width="12" />
 <img src="https://avatars.mds.yandex.net/i?id=17dd7775c71daf319417735d18867ff5_l-9230514-images-thumbs&n=13" height="1000" alt="c# logo"  />
