@@ -20,4 +20,7 @@ Here are some ideas to get you started:
   <img width="12" />
     <img src="https://skillicons.dev/icons?i=c#" height="40" alt="c# logo"  />
   <img width="12" />
-<img src="https://i.pinimg.com/736x/fb/04/48/fb0448f0899bd357797731a16122145f.jpg"height="40" alt="c# logo"  />
+
+
+ Tupo ya kogda uznal chto u nas est' practica:
+<img src="[https://skillicons.dev/icons?i=c#](https://avatars.mds.yandex.net/i?id=4eaa2102d9d58c1ef9435d3cd3836d3c_l-5875590-images-thumbs&n=13)" height="90" alt="c# logo"  />
