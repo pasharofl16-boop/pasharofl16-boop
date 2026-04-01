@@ -22,5 +22,6 @@ Here are some ideas to get you started:
   <img width="12" />
 
 
- Tupo ya kogda uznal chto u nas est' practica:
-<img src="[https://skillicons.dev/icons?i=c#](https://avatars.mds.yandex.net/i?id=4eaa2102d9d58c1ef9435d3cd3836d3c_l-5875590-images-thumbs&n=13)" height="90" alt="c# logo"  />
+ Tupo ya kogda uznal chto u nas est' practica:\
+ <img width="12" />
+<img src="https://avatars.mds.yandex.net/i?id=17dd7775c71daf319417735d18867ff5_l-9230514-images-thumbs&n=13" height="70" alt="c# logo"  />
