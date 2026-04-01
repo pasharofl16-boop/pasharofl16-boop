@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **via GitHub or through my university email.**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I'm a student at Polar State University (PolSka), where I love turning complex problems into clean, functional code. 🚀**
+- # 💻 Tech Stack:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
