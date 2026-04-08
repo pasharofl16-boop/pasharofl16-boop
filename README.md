@@ -2,16 +2,21 @@
 <h1 align="center"> 👿ALLCash || beginner coder </h1>
 
 ###
+<h1 align="center"> about me 
+</h1>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
+I’m a beginning programmer passionate about learning and building small projects.  
+Currently exploring:
+
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  – algorithms, data structures, console apps  
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)  – small .NET utilities, game dev experiments  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) – scripting, automation, data analysis  
+
+I’m open to collaboration and always eager to learn from the open‑source community.  
+Check out my repos – feedback and tips are very welcome!
 
 ###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
