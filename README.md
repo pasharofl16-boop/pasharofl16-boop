@@ -2,8 +2,8 @@
 <h1 align="center"> 👿ALLCash || beginner coder </h1>
 
 ###
-<h1 align="center"> about me 
-</h1>
+<h1 align="center"> about me 👺:
+
 
 I’m a beginning programmer passionate about learning and building small projects.  
 Currently exploring:
@@ -14,7 +14,7 @@ Currently exploring:
 
 I’m open to collaboration and always eager to learn from the open‑source community.  
 Check out my repos – feedback and tips are very welcome!
-
+</div>
 ###
 
 
