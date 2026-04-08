@@ -22,13 +22,7 @@ Here are some ideas to get you started:
   <img width="12" />
 
   
- ## 📈 My Stats :
-<div align="center">
  
-
- 
- <img width="12" />
-<img src="https://avatars.mds.yandex.net/i?id=17dd7775c71daf319417735d18867ff5_l-9230514-images-thumbs&n=13" height="400" alt="c# logo"  />
 
 
 ## 📞 My Contacts :
