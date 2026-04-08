@@ -1,4 +1,3 @@
-
 <h1 align="center"> 👿ALLCash || beginner coder </h1>
 
 ###
@@ -14,16 +13,29 @@ Currently exploring:
 
 I’m open to collaboration and always eager to learn from the open‑source community.  
 Check out my repos – feedback and tips are very welcome!
-</div>
-###
-
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+</div>
+
+###
+<h1 align="center">🎵 Music Maker & Beat Crafter:  </h1>
+
+ For writing music, it is used:  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3ad8fd31-c1f1-4dd0-91b1-6f22ccabaab0" height="40" alt="vscode logo" />
+
+When I’m not coding, I’m deep in **FL Studio** – composing, arranging, and mixing my own tracks.  
+My genres range from **electronic** and **lo‑fi** to **ambient** soundscapes.
+
+- ✍️ Write melodies & sound design  
+- 🎛️ Mixing and mastering in FL Studio  
+- 🌐 Release tracks on **Spotify, Apple Music, SoundCloud, YouTube**  
+
+![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white) 
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)
+
 </div>
 
 ###  
