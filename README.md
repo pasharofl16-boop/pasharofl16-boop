@@ -2,7 +2,7 @@
 <h1 align="center"> 👿ALLCash || beginner coder </h1>
 
 ###
-<h1 align="center"> about me 👺:
+<h1 align="center"> about me 👺:</h1>
 
 
 I’m a beginning programmer passionate about learning and building small projects.  
