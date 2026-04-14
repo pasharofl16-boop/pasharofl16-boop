@@ -22,7 +22,7 @@ Check out my repos – feedback and tips are very welcome!
 </div>
 
 ###
-<h1 align="center">🎵 Music Maker & Beat Crafter:  </h1>
+<h1 align="center">🎵 Beat Maker:  </h1>
 
  For writing music, it is used:  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3ad8fd31-c1f1-4dd0-91b1-6f22ccabaab0" height="40" alt="vscode logo" />
 
